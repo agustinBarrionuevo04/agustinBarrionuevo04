@@ -9,9 +9,8 @@
 <pre>
 💻 I am mainly a Backend Developer
 📚 I have a Student in Computer Science from the National University of Cordoba
-📝 I have a strong interest in Software Engineering and Design
+📝 I have a strong interest in Software Engineering and Maching Learning
 🌱 Learning about efficient designs for scalable systems
-🌟 Main language: Python 😁
 🚩 Interested in Server Side Application development
 😃 I look forward to collaborate on impactful projects
 </pre>
