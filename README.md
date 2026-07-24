@@ -3,13 +3,13 @@
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Backend+Dev;Big+Data;ML+Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Backend+Dev;Data Scients;Big+Data;ML+Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 <pre>
-💻 I am mainly a Backend Developer
+💻 I am mainly a Data Scients
 📚 I have a Student in Computer Science from the National University of Cordoba
-📝 I have a strong interest in Software Engineering and Maching Learning
+📝 I have a strong interest in Data Scients, Maching Learning and Software Engineering  
 🌱 Learning about efficient designs for scalable systems
 🚩 Interested in Server Side Application development
 😃 I look forward to collaborate on impactful projects
@@ -18,7 +18,7 @@
  
 ## Contact Me
 
-<a href="https://www.linkedin.com/in/brian-barrionuevo-190a73294/">
+<a href="[https://www.linkedin.com/in/brian-barrionuevo-190a73294](https://www.linkedin.com/in/brian-agustin-barrionuevo-190a73294)/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
